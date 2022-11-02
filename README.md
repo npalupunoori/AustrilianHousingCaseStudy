@@ -13,7 +13,7 @@ The company wants to know:
 - They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. 
 - Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
-## Conclusions
+## Conclusions from Data analysis
 - Masonry vaneer area has a positive effect on sale price
 - Finished Basement, increase the cost of the House
 - Higher living area means higher sales price
@@ -32,6 +32,24 @@ The company wants to know:
 - Having a Excelent Kitchen quality has very positive effect on sale price
 - Car Port has a negative effect on garage type. BuiltIn Gargae has increased the price of the house.
 
+## Conclusions form regression model
+* LotFrontage has negative effect on the housing price. Lot of coustomers are perfering not to have a big road connecting to there lot. This sits with the analysis before that say's Mean for homes in viallages and isolated neighbour hoods is high
+* LotArea, TotalBsmtSF, GrLivArea,  is positive effect as expected
+* Finished basement is increasing the house price
+* House Age and Garage Age, Older houses tend to have lower sale price
+* House price is effected by the dwelling of the house
+* Neighborhood is having effect on sale price. There are neighbour hoods where people prefer to over others
+    * Blueste , BrDale , CollgCr , Edwards , Gilbert , IDOTRR , MeadowV , Mitchel , NAmes , NPkVill , NWAmes , OldTown , SWISU , Sawyer People prefer these neighbourhood over others
+    * BrkSid , ClearC , Crawfo , NoRidg , NridgH , Sawyer , Somers , StoneB , Timbe , Veenke are not prefering these neighbourhoods.
+* Over all quality needs to be greater then 6 to have a positive effect on saleprice
+* Over all condition needs to be atleast 5
+* People are perfering 3 full bath over 1 and 2
+* Coustomers what bedroom above ground
+* Coustomers prefer to have atleast 9 rooms with 3 full bath
+* Coustomers dont like to have more then one Full bath in basement
+* Coustomers dont like carport
+* Coustomers prefer with atlest 3 garage cars
+* Remodeling has minimum effect on the sale price
 ## Contact
 Created by [@npalupunoori] - feel free to contact me!
 
